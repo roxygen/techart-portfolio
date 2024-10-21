@@ -1,0 +1,4 @@
+title: My Portfolio
+description: A custom portfolio using a Jekyll theme.
+baseurl: "https://roxygen.github.io/" # Use this if your site is hosted at the root of a domain
+theme: minimal # replace this with your chosen theme name if needed
