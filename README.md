@@ -129,7 +129,7 @@ public class TiltShiftPostprocess : VolumeComponent, IPostProcessComponent
 
 
 <details>
-  <summary>Render feature code.</summary>
+<summary>Render feature code.</summary>
 
 ```cs
 using UnityEditor;
@@ -298,9 +298,8 @@ public class TiltShiftRenderFeature : ScriptableRendererFeature
         
     }
 }
-  ```
+```
 </details>
-
 
 
 ## Lowpoly
