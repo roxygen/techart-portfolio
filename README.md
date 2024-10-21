@@ -9,7 +9,7 @@ Adaptation of this [built-in](https://github.com/imclab/TiltShift/tree/master) s
 
 
 <details>
-<summary>Titl shader code.</summary>
+<summary>Tilt shader code.</summary>
 <pre><code class="language-hlsl">
 Shader "PostProcess/TiltShift"
 {
@@ -131,7 +131,7 @@ public class TiltShiftPostprocess : VolumeComponent, IPostProcessComponent
 <details>
 <summary>Render feature code.</summary>
 
-```cs
+<pre><code class="language-csharp">
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Rendering;
@@ -298,9 +298,10 @@ public class TiltShiftRenderFeature : ScriptableRendererFeature
         
     }
 }
-```
+</code></pre>
 </details>
 
+---
 
 ## Lowpoly
 
