@@ -309,6 +309,3 @@ Mixamo integration test.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/rUhSBQ9xL9A" frameborder="0" allowfullscreen></iframe>
 
-
-
-</details></details>
