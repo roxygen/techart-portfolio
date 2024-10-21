@@ -8,7 +8,9 @@ Adaptation of this [built-in](https://github.com/imclab/TiltShift/tree/master) s
 
 
 
-```hlsl
+<details>
+<summary>Titl shader code.</summary>
+<pre><code class="language-hlsl">
 Shader "PostProcess/TiltShift"
 {
     HLSLINCLUDE
@@ -87,7 +89,7 @@ Shader "PostProcess/TiltShift"
         }
     }
 }
-```
+</code></pre>
 
 
 
