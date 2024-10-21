@@ -6,10 +6,9 @@ Adaptation of this [built-in](https://github.com/imclab/TiltShift/tree/master) s
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/dvxGyGokUt8" frameborder="0" allowfullscreen></iframe>
 
-<details>
-<summary>Shader code.</summary>
 
-<pre> ```hlsl
+
+```hlsl
 Shader "PostProcess/TiltShift"
 {
     HLSLINCLUDE
@@ -89,8 +88,7 @@ Shader "PostProcess/TiltShift"
     }
 }
 ```
-</pre>
-</details>
+
 
 
 <details>
